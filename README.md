@@ -1,3 +1,3 @@
-# web-bucin-github
+# web-bucin
 
 percobaan
