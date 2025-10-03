@@ -1,2 +1,2 @@
-# webbucingithub.io
+# web-bucin-github.io
 percobaan
